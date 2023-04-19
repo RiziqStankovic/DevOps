@@ -32,6 +32,8 @@ location / {
         }
 ```
 
+![image](https://user-images.githubusercontent.com/118950953/232962135-3a761003-558c-4383-bebd-4d0a22be3a2d.png)
+
 ![image](https://user-images.githubusercontent.com/106061407/176593749-e6f76dd1-8428-401b-a336-c51c485038ce.png)
 
 
